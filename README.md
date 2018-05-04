@@ -6,7 +6,7 @@ Introduction
 A/B-testing have recently become very popular due to their capability to compare 
 the performance of two objects or situations depending upon a chosen metric. 
 This current example of A/B-testing includes the conversion rates between new 
-and old websites for an e-commerce website.Basically, we have to test whether 
+and old websites for an e-commerce website. Basically, we have to test whether 
 they should implement the new page, or keep the old page or run the experiment 
 longer to make their decision.
 
