@@ -482,7 +482,6 @@ result.summary2()
 # 
 # The p-values for Part ii 2j(simulation) and 2m (z-test) are 0.9 and the p-value for Part iii’s 1d Logistic Regression is 0.19. So, we can see there is a drastic difference. This drastic difference is because what each test assumes for hypothesis. Our hypothesis statements affect our p-values. Depending on hypothesis test cases, we may use either Two-tails, One-left-tail, or One-right-tail for Hypothesis Testing.
 # In part ii, we were concerned with which page had a higher conversion rate, so it was one-tailed test. But, in part iii, the nature of a regression test is not concerned with which had a positive or negative change. It is concerned with if the condition had any effect at all, so it was a two-tailed test. 
-# #I wish it was dicussed more in the lecture notes about one tail or two tailed test to try the code. Too bad I have lost access to all lecture notes now. 
 
 # f. Now, you are considering other things that might influence whether or not an individual converts.  Discuss why it is a good idea to consider other factors to add into your regression model.  Are there any disadvantages to adding additional terms into your regression model?
 
